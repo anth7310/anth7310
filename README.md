@@ -2,9 +2,8 @@
 
 
 
-## I'm a graduate from the 🎓**University of Toronto** specialized in **Machine Learning and Data Science**.
-
-## Freelance Data Engineer, Data Scientist, Teaching Assistant, Book Nerd
+### Hi there, I'm Anthony
+I'm a graduate from the 🎓**University of Toronto** specialized in **Machine Learning and Data Science**. I'm also a freelance data engineer, data scientist, teaching assistant, and book nerd!
 
 I enjoy learning about Large Scale Systems related to Big Data and Machine Learning. Skills I'm proficient are
 * Python Programming
