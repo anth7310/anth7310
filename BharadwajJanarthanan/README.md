@@ -12,7 +12,7 @@ Project 4 In accordance with feature importance and the constant coefficients pr
 
 ## [Bank Loans](https://github.com/ArminaCA/finalproject)
 
-
+Bank loan classifier and analysis
 
 ## [https://github.com/makramkb/Final_Project/tree/main](https://github.com/makramkb/Final_Project/tree/main)
 
