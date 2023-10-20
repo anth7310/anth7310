@@ -53,13 +53,14 @@ Some of my favourite books 📕 📗 📙 📘 that have helped me on my **self 
 
 I've been teaching at the University of Toronto, School of Continuing Studies for the Data Science Bootcamp. Part of the curriculum is a capstone project displaying the skills and technologies learned within the course. Below are some projects I've worked on personally with students from the course.
 
-* [Environmental Factors and Effects on Human Well-Being and Happiness](https://github.com/SDCoulter/final_project)
-* [Prognostic Discovery for type 2 diabetes and its hetergeneity](https://github.com/Jialin0315/group12/tree/main)
-* [Spotify: Popularity Index Case Study](https://github.com/halmasieh/Spotify_Analysis)
-* [Pokemon Trading Card Price Comparator](https://github.com/benaziziasmae/squirtle_squad/tree/Ian)
-* [Predicting Arctic Sea Ice Extent Using Machine Learning Models](https://github.com/ALIYA2Group/Mod20_Segment_4)
-* [Is the Sunshine list still revelant for the Ontario taxpayers?](https://github.com/Shaza-Safi/Ontario_Sunshine_List)
-* [Fake News](https://github.com/NoraYounes/Fake_News_Detection/tree/main)
+* [Marlaria Image Recognition (2023)](https://github.com/jnliou/project4)
+* [Environmental Factors and Effects on Human Well-Being and Happiness (2021)](https://github.com/SDCoulter/final_project)
+* [Prognostic Discovery for type 2 diabetes and its hetergeneity (2022)](https://github.com/Jialin0315/group12/tree/main)
+* [Spotify: Popularity Index Case Study (2021)](https://github.com/halmasieh/Spotify_Analysis)
+* [Pokemon Trading Card Price Comparator (2021)](https://github.com/benaziziasmae/squirtle_squad/tree/Ian)
+* [Predicting Arctic Sea Ice Extent Using Machine Learning Models (2022)](https://github.com/ALIYA2Group/Mod20_Segment_4)
+* [Is the Sunshine list still revelant for the Ontario taxpayers? (2022)](https://github.com/Shaza-Safi/Ontario_Sunshine_List)
+* [Fake News (2021)](https://github.com/NoraYounes/Fake_News_Detection/tree/main)
 
 
 For a list of all the projects I've been grateful and fortunate enough to lend my mentorship, view the prior years below.
