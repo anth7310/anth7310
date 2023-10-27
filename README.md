@@ -45,6 +45,8 @@ Some of my favourite books 📕 📗 📙 📘 that have helped me on my **self 
 * 🚀 25k views
 * 🚀 36 hr 56 min Lifetime memeber reading time
 
+[Medium Article: How to set up your SSH Key](https://anthonyin98.medium.com/tldr-how-to-set-up-your-ssh-key-66ef08dfe368)
+
 [Freelance Tutoring](https://www.superprof.ca/statistical-machine-learning-and-data-science-student-teaching-computer-science-programming-python.html)
 * 🚀 43 students and learners from diverse backgrounds ranging from children, young adults, university students, graduate students doing master programs, and working professionals reached out to me to help them with tasks.
 * 🚀 4.9/5.0 review score based on 17 reviews
