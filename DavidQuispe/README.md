@@ -22,6 +22,7 @@ Our Analysis also include analysing different factors such as Product Price, Pro
 Dataset was used from a live API called RapidAPI.
 
 ## [Miwaukee Listings Property](https://github.com/vivsarraf/Project-4)
+Slides: [Google Slides](https://docs.google.com/presentation/d/1GwKYJB99njFbr-xUegxNruvJXoG10SQn0xbaurwp-JE/edit#slide=id.g27381dbf212_0_14)
 
 The goal of this project is to provide users with an interactive dashboard for Milwaukee property listings that also provides the 2024 property price prediction using machine learning concepts.
 
