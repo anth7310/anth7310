@@ -3,6 +3,7 @@
 ## Instructor: David Quispe, Data Scientist at Intact Labs
 
 ## [Collision Course: NYC's Risky Roadways 🚗](https://github.com/davidskaff/vehicle-crashes-nyc)
+Slides: [Canva](https://www.canva.com/design/DAGHN2XAUmE/ZFqu48TdzdntSMgobCSG7g/edit)
 The goal of this project was to predict when and where accidents were likely to occur in New York City to enhance public safety and improve city planning. This may help with informing traffic laws and policies, guiding the allocation of resources, and optimizing police presence. By identifying high-risk areas and times, the city can implement preventative measures, such as improved signage or increased patrols, to reduce accidents. Furthermore, these insights can inform urban planning decisions, such as where to install traffic calming measures or redesign intersections, contributing to a safer and more efficient city for all residents. We used a dataset containing information about past motor vehicle collisions in NYC. The dataset, sourced from Kaggle, included features such as the date and time of the crash, the borough in which it occurred, the zip code, latitude, longitude, number of persons injured or killed, contributing factors for the vehicles involved, and the types of vehicles.
 
 ## [Coronary Heart Disease Risk Prediction](https://github.com/TyliOnel/Project_4-Group_5-Heart_Health)
