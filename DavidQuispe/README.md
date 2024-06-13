@@ -28,3 +28,7 @@ The goal of this project is to provide users with an interactive dashboard for M
 The interactive dashboard will have only Milwaukee listings (28 properties) shown on the map, and contain information such as the address, number of bedrooms, number of bathrooms, square footage, lot size, and listing price.
 The dashboard will have a filtering interface to allow users to filter by: min and max price, number of beds and baths, and square footage, and results will be shown below the map in a tabular format. The tabular presentation will have the list of properties and their property information.
 Upon selecting a property from the list, additional information including the 2025 price predictions, will be shown below the table to aid users in the purchasing decisions.
+
+[Indian Premier League Score Prediction](https://github.com/kasheshjaiin/Project4_IPL)
+
+This project involves predicting the final score of an IPL (Indian Premier League) cricket match using machine learning models. The data is processed and analyzed using Spark, and several machine learning models are implemented including a Neural Network, Linear Regression, and Random Forest.
