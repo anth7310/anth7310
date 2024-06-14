@@ -67,6 +67,7 @@ I've been teaching at the University of Toronto, School of Continuing Studies fo
 
 For a list of all the projects I've been grateful and fortunate enough to lend my mentorship, view the prior years below.
 
+* [Dec 2024 - Jun 2024](./DavidQuispe)
 * [Apr 2023 - Oct 2023](./BharadwajJanarthanan/)
 * [Oct 2022 - Apr 2023](./NikunjViramgama/)
 * [Feb 2022 - Aug 2022](./HassanAhmad/)
