@@ -1,4 +1,4 @@
-#  Jan 2024 - June 2024
+#  Dec 2023 - June 2024
 
 ## Instructor: David Quispe, Data Scientist at Intact Labs
 
