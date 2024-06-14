@@ -46,6 +46,11 @@ Slides: [Google Slides](https://docs.google.com/presentation/d/1ukOAlDa_ucdmWeyp
 
 Data cleaning of amazon reviews and LDA topic modeling
 
+## [Loan Application](https://github.com/spoudel977/project4)
+Slides: [Google Slides](https://docs.google.com/presentation/d/1jnHPaY2C0PQVGDTBa4JHrn-QP6232LfT/edit#slide=id.p1)
+
+The goal of the project is to create a machine learning model which helps to indicate which applicants would be eligible for a loan according to their credit score. The credit score is tested against 13 features that has been provided for each applicant. Our model will determine the applicant's credit worthiness for a loan based on the applicant's financial overview ( features): Age, Annual_Income, Monthly_Inhand_Salary, Num_Bank_Accounts, Num_Credit_Card, Interest_Rate, Num_of_Loan, Delay_from_due_date, Num_of_Delayed_Payment, Changed_Credit_Limit, Credit_Mix,.. The project is implemented in a Jupyter Notebook, using the Python programming language and several popular machine learning libraries such as NumPy, Pandas, Matplotlib, Seaborn, sklearn.preprocessing, sklearn.tree and sklearn.ensemble.
+
 ## [Stock-Analysis and Prediction](https://github.com/Emadkamali/Stock-Analysis)
 Slides: [pdf](https://github.com/Emadkamali/Stock-Analysis/blob/main/Presentation.pdf)
 
