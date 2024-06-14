@@ -42,4 +42,13 @@ US Adult Income Predictor
 
 ## [Amazon Reviews using Topic Modeling](https://github.com/gmmarsh/project4/tree/main)
 
+Slides: [Google Slides](https://docs.google.com/presentation/d/1ukOAlDa_ucdmWeypthasDaN6MxU__Zgg0z-FF58Uh3A/edit#slide=id.g2e517c03692_1_348)
+
 Data cleaning of amazon reviews and LDA topic modeling
+
+## [Stock-Analysis and Prediction](https://github.com/Emadkamali/Stock-Analysis)
+Slides: [pdf](https://github.com/Emadkamali/Stock-Analysis/blob/main/Presentation.pdf)
+
+The project aims to forecast stock prices using machine learning models and technical indicators. Three main models were explored: Prophet with Technical Indicators, Prophet without Technical Indicators, and Gradient Boosting Regression. These models were analyzed and compared to determine the most suitable approach for stock price prediction.
+
+
