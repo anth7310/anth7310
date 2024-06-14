@@ -33,3 +33,13 @@ Upon selecting a property from the list, additional information including the 20
 ## [Indian Premier League Score Prediction](https://github.com/kasheshjaiin/Project4_IPL)
 
 This project involves predicting the final score of an IPL (Indian Premier League) cricket match using machine learning models. The data is processed and analyzed using Spark, and several machine learning models are implemented including a Neural Network, Linear Regression, and Random Forest.
+
+## [Income Prediction](https://github.com/Naqibee/project4/tree/main)
+
+Slides: [Google Slides](https://docs.google.com/presentation/d/1yOU-kanAZfpSFrFqyzitxKDK5nIxvFROM41O-V3Iojs/edit#slide=id.g1f87997393_0_782)
+
+US Adult Income Predictor
+
+## [Amazon Reviews using Topic Modeling](https://github.com/gmmarsh/project4/tree/main)
+
+Data cleaning of amazon reviews and LDA topic modeling
